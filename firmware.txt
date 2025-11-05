@@ -1,1 +1,2 @@
-"VersÆo inicial do FW" 
+Versão inicial do firmware
++ Ajuste de calibração do sensor MAX30102
